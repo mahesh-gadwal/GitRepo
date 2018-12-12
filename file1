@@ -1,2 +1,2 @@
-#! /var/lib
+#!/bin/sh
 echo "DEMO"
